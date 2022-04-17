@@ -7,6 +7,8 @@ This Dockerfile is based on [ehfd/docker-nvidia-egl-desktop](https://github.com/
 
 ![](nvidia-egl-desktop-ros-screenshot.png)
 
+If you are interested in ROS2 version, please check [atinfinity/nvidia-egl-desktop-ros2](https://github.com/atinfinity/nvidia-egl-desktop-ros2).
+
 ## Requirements
 
 - NVIDIA graphics driver 450.80.02+ [^1]
