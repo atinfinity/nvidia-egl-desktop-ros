@@ -1,4 +1,4 @@
-FROM ghcr.io/ehfd/nvidia-egl-desktop:18.04
+FROM ghcr.io/selkies-project/nvidia-egl-desktop:18.04
 
 SHELL ["/bin/bash", "-c"]
 ENV DEBIAN_FRONTEND noninteractive
